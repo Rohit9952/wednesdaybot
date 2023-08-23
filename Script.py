@@ -7,7 +7,7 @@ class script(object):
 
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
+    ABOUT_TXT = """<b>• Mʏ Nᴀᴍᴇ : {}</b>
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/xenxd>мɪкєʏ ᴋᴜɴ</a></b>
 
